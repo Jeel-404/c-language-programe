@@ -10,7 +10,7 @@ void main()
     switch (a)
     {
 
-    case 1:
+    case 9:
     case 8:
     case 7:
         printf("dinstiction");
